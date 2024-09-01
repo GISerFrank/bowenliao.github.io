@@ -12,7 +12,7 @@ title                    : "Welcome to FrankLeo's Cyberspace"
 title_separator          : "-"
 name                     : &name "Bowen Liao"
 description              : &description "Explore the world with a littel passion and curiosity."
-url                      : https://GISerFrank/bowenliao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://GISerFrank/bowenliao.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GISerFrank/bowenliao.github.io"
 
@@ -21,7 +21,7 @@ repository               : "GISerFrank/bowenliao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "lion.tiff"
+  avatar           : "profile.png"
   name             : "Bowen Liao"
   pronouns         : # example: "she/her"  
   bio              : "💗🔗☮️"
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : ""# Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
