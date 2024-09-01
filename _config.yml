@@ -12,7 +12,7 @@ title                    : "Welcome to FrankLeo's Cyberspace"
 title_separator          : "-"
 name                     : &name "Bowen Liao"
 description              : &description "Explore the world with a little passion and curiosity."
-url                      : https://github.com/GISerFrank/bowenliao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://github.com/GISerFrank/bowenliao.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GISerFrank/bowenliao.github.io"
 
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Bowen Liao"
-  pronouns         : # example: "she/her"  
+  pronouns         : "I/Me"  
   bio              : "💗🔗☮️"
   location         : "Earth"
   employer         : "Spiritual Being"
