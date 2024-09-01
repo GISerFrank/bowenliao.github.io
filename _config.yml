@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Welcome to FrankLeo's Cyberspace"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Bowen Liao"
+description              : &description "Explore the world with a littel passion and curiosity."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Bowen Liao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "💗🔗☮️"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Spiritual Being"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bliao6@asu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -80,7 +80,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Landscape Pattern Changes in Xianghai Wetland in Recent 40 Years'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
