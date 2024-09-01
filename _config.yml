@@ -21,7 +21,7 @@ repository               : "GISerFrank/bowenliao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "lion.png"
+  avatar           : "profile.png"
   name             : "Bowen Liao"
   pronouns         : # example: "she/her"  
   bio              : "💗🔗☮️"
