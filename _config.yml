@@ -80,8 +80,8 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Landscape Pattern Changes in Xianghai Wetland in Recent 40 Years'
-    title: 'The Dynamic Changes of Landscape Connectivity in Momoge Wetland based on Long Time Series Remote Sensing Data'
+    title: 'Conference Papers'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
