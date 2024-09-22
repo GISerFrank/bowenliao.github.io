@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2024-07-07
 venue: 'IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf](https://github.com/GISerFrank/bowenliao.github.io/blob/652ca956884a0975fbed4bc2475f80569e2c719d/files/The_Dynamic_Changes_of_Landscape_Connectivity_in_Momoge_Wetland_based_on_Long_Time_Series_Remote_Sensing_Data.pdf'
 citation: 'Zhang., Liao.(2024).&quot;Landscape Pattern Changes in Xianghai Wetland in Recent 40 Years.&quot; <i>IGARSS 2024</i>. 5474-5477.'
 ---
 
