@@ -2,7 +2,7 @@
 title: "Landscape Pattern Changes in Xianghai Wetland in Recent 40 Years"
 collection: publications
 category: conference
-permalink: https://github.com/GISerFrank/bowenliao.github.io/blob/520359008304e2e10678f85d53368109cfeb428a/_publications/2009-10-01-paper-title-number-1.md
+permalink: _publications/2009-10-01-paper-title-number-1.md
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-07-07
 venue: 'IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium'
