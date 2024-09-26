@@ -12,7 +12,7 @@ title                    : "Welcome to FrankLeo's Cyberspace"
 title_separator          : "-"
 name                     : &name "Bowen Liao"
 description              : &description "Explore the world with a littel passion and curiosity."
-url                      : https://giserfrank.github.io/bowenliao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://giserfrank.github.io/bowenliao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
