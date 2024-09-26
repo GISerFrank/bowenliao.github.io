@@ -1,7 +1,7 @@
 ---
 title: "Landscape Pattern Changes in Xianghai Wetland in Recent 40 Years"
 collection: publications
-category: conference
+category: conferences
 permalink: /publications/landscapepatternchanges
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-07-07
