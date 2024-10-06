@@ -11,54 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in ??? (TBA)
+* M.A. in Geography, Arizona State University, 2026 (expected)
+* B.S. in Geographical Information Science, Jilin University, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 05/2023-10/2023: Research Assistant
+  * Renmin University of China
+  * Duties includes: Literature Review Conduction, Data Collection&Cleaning
+       
+* 09/2023: Internship Analyst
+  * Beijing Tsinghua Tongheng Urban Planning and Design Institute(THUPDI)
+  * Duties included: Data Mining&Cleaning, Data Analysis
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Academic Writing
+* Programming Skills
+  * C#/Java
+  * Matlab
+  * Python
+  * R
+  * Javascript
+* ArcGIS Pro, ENVI, eCognition
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+    
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 2 different slack teams
